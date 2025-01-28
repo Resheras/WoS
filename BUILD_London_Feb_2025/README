@@ -1,0 +1,6 @@
+Here you can find all the materials from the BUILD event in London 4 Feb 2024, session "Bridging the Gender Gap: One Quickstart at a Time".
+You can reach out to me here: https://www.linkedin.com/in/anastasiastefanska/
+To reproduce the demo, follow the steps in sequence:
+1. Use the sql file to create necessary objects in your account.
+1.1 Please note you are responsible for sourcing the data for the demo, example link for the data is in the sql file.
+2. Use Notebook file with the created objects to run the demo.
